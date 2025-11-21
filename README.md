@@ -8,6 +8,7 @@ A simple, open-source app to calculate your sleep and wake times👍, don't over
 ![Android](https://img.shields.io/badge/Platform-Android-green)
 ![Status](https://img.shields.io/badge/Status-Stable-blue)
 ![Vibe](https://img.shields.io/badge/Vibe-Chill-purple)
+![](https://img.shields.io/badge/Sleep_🌙-Better-green) 
 
 ## 📸 Screenshots
 <img src="screenshots/home.jpg" width="300">
