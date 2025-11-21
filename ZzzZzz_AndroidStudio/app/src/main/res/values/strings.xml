@@ -1,0 +1,12 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="false">ZzzZzz</string>
+    <!-- If I Sleep Now , when should i wake up -->
+    <string name="if_i_sleep_now_wake_when">If I go to sleep right now, when should I wake up? </string>
+    <!-- This comes with a time picker , it takes the time you entered, calculates it, and gives you 7 cycles to choose from. -->
+    <string name="wake_up_this_time">I want to wake up at: </string>
+    <!-- Pick Time Button Text -->
+    <string name="Pick_Time">Pick Time</string>
+    <!-- Calculate (now) Button Text -->
+    <string name="Calculate">Calculate</string>
+</resources>

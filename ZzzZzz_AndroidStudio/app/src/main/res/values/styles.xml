@@ -1,0 +1,43 @@
+<resources>
+    <style name="AppTheme.FullScreen" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.Material3">
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.Material3">
+    </style>
+    <style name="AppTheme.DebugActivity" parent="AppTheme">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+    </style>
+    <style name="CollapsingTextExpanded.Material3" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="fontFamily">@font/prdc</item>
+    </style>
+    <style name="CollapsingTextCollapsed.Material3" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">23sp</item>
+        <item name="fontFamily">@font/prdc</item>
+    </style>
+    <style name="ToolbarTitleFont" parent="TextAppearance.Material3.TitleLarge">
+        <item name="fontFamily">@font/prdc</item>
+    </style>
+<style name="ShapeAppearance.TopCard" parent="ShapeAppearance.Material3.Corner.None">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSizeTopLeft">18dp</item>
+    <item name="cornerSizeTopRight">18dp</item>
+    <item name="cornerSizeBottomLeft">6dp</item>
+    <item name="cornerSizeBottomRight">6dp</item>
+</style>
+<style name="ShapeAppearance.MiddleCard" parent="ShapeAppearance.Material3.Corner.None">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSize">6dp</item>
+</style>
+<style name="ShapeAppearance.BottomCard" parent="ShapeAppearance.Material3.Corner.None">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSizeTopLeft">6dp</item>
+    <item name="cornerSizeTopRight">6dp</item>
+    <item name="cornerSizeBottomLeft">18dp</item>
+    <item name="cornerSizeBottomRight">18dp</item>
+</style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <!-- اسم برنامه -->
+    <string name="app_name" translatable="false">ZzzZzz</string>
+    <!-- اگر الان بخوابی توضیحات -->
+    <string name="if_i_sleep_now_wake_when">اگر همین الان بخوابم، چه زمانی باید بیدار شوم؟</string>
+    <!-- اینچا میاد با تایم پیکر ، تایم که وارد کردی رو میگیره ، محاسبه میکنه و ۷ چرخه بهت تحویل میده که خودت انتخاب کنی چجوری باشی -->
+    <string name="wake_up_this_time">میخواهم بیدار شوم در:</string>
+    <!-- متن روی دکمه Pick Time -->
+    <string name="Pick_Time">انتخاب یک زمان</string>
+    <!-- متن دکمه محاسبه (کنید) -->
+    <string name="Calculate">محاسبه</string>
+</resources>
